@@ -11,22 +11,112 @@
     <script type="module" src="./script/app.js"></script>
   </head>
   <body>
-    <h1>Geoblocking</h1>
-    <p>
-      Geo-blocking allows you to fully block all internet traffic to your
-      website from a specific country.
-    </p>
+    <main class="c-app">
+      <div>
+        <!--HEADER-->
+        <header class="c-navigation">
+          <p class="c-breadcrumbs">
+            <span class="c-breadcrumbs__trail">Settings > </span>Geoblocking
+          </p>
 
-    <div class="card">
-      <h1>Geooo</h1>
-      <div class="container-left">
-        <p class="p-left">Available countries</p>
-        <p class="p-right">Move all to blocked</p>
+          <h1 class="c-navigation__title">Geoblocking</h1>
+
+          <p class="c-navigation__description">
+            Geo-blocking allows you to fully block all internet traffic to your
+            website from a specific country.
+          </p>
+        </header>
+
+        <!--CARD-->
+
+        <article class="c-card">
+          <div class="c-card__main">
+            <section class="c-card-half">
+              <header class="c-card-header">
+                <div class="c-card__segment">
+                  <h2 class="c-card-header__title">Available countries</h2>
+
+                  <button class="c-card-header__button">
+                    Move all to available
+                  </button>
+                </div>
+                <div class="c-card-header__fake-input">
+                  <svg
+                    class="c-card-header__symbol"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                  </svg>
+                  <input type="text" />
+                </div>
+              </header>
+              <div class="c-card__list-holder">
+                <ul class="c-card__list js-list-available">
+                  <!--country-->
+                  <li class="c-country-button">
+                    <button>
+                      <div class="c-country__flag-holder">
+                        <img
+                          class="c-country__flag"
+                          src="https://flagcdn.com/be.svg"
+                          alt="Flag of Belgium"
+                        />
+                      </div>
+                      <p class="c-country__name">Belgium</p>
+                      <svg class="c-country__arrow"></svg>
+                    </button>
+                  </li>
+                </ul>
+              </div>
+            </section>
+          </div>
+
+          <!--HALF-->
+          <div class="c-card__main">
+            <section class="c-card-half">
+              <header class="c-card-header">
+                <div class="c-card__segment">
+                  <h2 class="c-card-header__title">Blocked countries</h2>
+
+                  <button class="c-card-header__button">
+                    Move all to blocked
+                  </button>
+                </div>
+                <div class="c-card-header__fake-input">
+                  <svg
+                    class="c-card-header__symbol"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                  </svg>
+                  <input type="text" />
+                </div>
+              </header>
+              <div class="c-card__list-holder">
+                <ul class="c-card__list js-list-available">
+                  <!--country-->
+                  <li></li>
+                </ul>
+              </div>
+            </section>
+          </div>
+
+          <footer class="c-card__footer">
+            <button class="o-button o-button-secondary js-cancel">
+              Cancel
+            </button>
+            <button class="o-button o-button-primary js-save">Save</button>
+          </footer>
+        </article>
       </div>
-      <div class="container-right">
-        <p class="p-left">Blocked countries</p>
-        <p class="p-right">Move all to available</p>
-      </div>
-    </div>
+    </main>
   </body>
 </html>

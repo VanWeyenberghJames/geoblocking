@@ -1,0 +1,67 @@
+.c-card {
+  max-width: 70rem;
+  padding: 2rem;
+  background-color: var(--white);
+  border: 1px solid var(--theme-border-color);
+  border-radius: var(--border-radius-lg);
+
+  &__main {
+    display: flex;
+  }
+  &-half {
+    flex: 1;
+
+    & + & {
+      margin-right: -2rem;
+      padding-left: 2rem;
+      border-left: 1px solid var(--theme-border-color);
+    }
+  }
+
+  &-header {
+    &__segment {
+      display: flex;
+      justify-content: space-between;
+      padding-right: 0.2rem;
+      font-size: 0.9;
+      line-height: 1;
+    }
+    &__title {
+      font-weight: 500;
+    }
+    &__button {
+      color: var(--theme-alpha);
+    }
+    &__fake-input {
+      display: flex;
+      align-items: center;
+      margin: 0.5rem 2rem 1rem 0;
+      padding: 0.25rem;
+
+      border: 1px solid var(--theme-border-color);
+      border-radius: var(--border-radius-lg);
+    }
+    &__symbol {
+      height: 1rem;
+      fill: none;
+      stroke: var(--theme-dark);
+      padding: 0 0.5rem;
+    }
+    &__input {
+      font-size: 0.9rem;
+      width: 100%;
+    }
+  }
+  &__list {
+    //TODO: Hoe hoogte bepalen?
+    &-holder {
+    }
+  }
+
+  &__footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+    border-top: 1px solid var(--theme-border-color);
+  }
+}
