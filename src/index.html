@@ -8,13 +8,13 @@
     <title>Geoblocking</title>
 
     <link rel="stylesheet" href="./style/screen.scss" />
-    <script type="module" src="./script/app.js"></script>
+    <script type="module" src="./script/app.ts"></script>
   </head>
   <body>
     <main class="c-app">
-      <div>
+      <div class="c-app-center">
         <!--HEADER-->
-        <header class="c-navigation">
+        <header class="c-navigation o-container">
           <p class="c-breadcrumbs">
             <span class="c-breadcrumbs__trail">Settings > </span>Geoblocking
           </p>
@@ -29,14 +29,14 @@
 
         <!--CARD-->
 
-        <article class="c-card">
+        <article class="c-card o-container">
           <div class="c-card__main">
             <section class="c-card-half">
               <header class="c-card-header">
                 <div class="c-card__segment">
                   <h2 class="c-card-header__title">Available countries</h2>
 
-                  <button class="c-card-header__button">
+                  <button class="c-card-header__button js-move-to-available">
                     Move all to available
                   </button>
                 </div>
@@ -51,14 +51,14 @@
                     <circle cx="11" cy="11" r="8"></circle>
                     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
                   </svg>
-                  <input type="text" />
+                  <input class="js-search-available" type="text" />
                 </div>
               </header>
               <div class="c-card__list-holder">
                 <ul class="c-card__list js-list-available">
                   <!--country-->
-                  <li class="c-country-button">
-                    <button>
+                  <!-- <li class="c-country-button">
+                    <button class="c-country-button">
                       <div class="c-country__flag-holder">
                         <img
                           class="c-country__flag"
@@ -67,9 +67,23 @@
                         />
                       </div>
                       <p class="c-country__name">Belgium</p>
-                      <svg class="c-country__arrow"></svg>
+                      <svg
+                        class="c-country__arrow"
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                        <polyline points="12 5 19 12 12 19"></polyline>
+                      </svg>
                     </button>
-                  </li>
+                  </li> -->
                 </ul>
               </div>
             </section>
@@ -82,7 +96,7 @@
                 <div class="c-card__segment">
                   <h2 class="c-card-header__title">Blocked countries</h2>
 
-                  <button class="c-card-header__button">
+                  <button class="c-card-header__button js-move-to-blocked">
                     Move all to blocked
                   </button>
                 </div>
@@ -97,7 +111,7 @@
                     <circle cx="11" cy="11" r="8"></circle>
                     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
                   </svg>
-                  <input type="text" />
+                  <input class="search-blocked" type="text" />
                 </div>
               </header>
               <div class="c-card__list-holder">

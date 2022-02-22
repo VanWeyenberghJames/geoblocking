@@ -11,6 +11,6 @@
   "author": "JVW",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.3.1"
+    "@parcel/transformer-sass": "^2.3.2"
   }
 }

@@ -1,0 +1,1417 @@
+[
+  {
+    "name": "Australia",
+    "topLevelDomain": [".au"],
+    "alpha2Code": "AU",
+    "alpha3Code": "AUS",
+    "callingCodes": ["61"],
+    "capital": "Canberra",
+    "altSpellings": ["AU"],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 24117360,
+    "latlng": [-27, 133],
+    "demonym": "Australian",
+    "area": 7692024,
+    "gini": 30.5,
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ],
+    "borders": [],
+    "nativeName": "Australia",
+    "numericCode": "036",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Australien",
+      "es": "Australia",
+      "fr": "Australie",
+      "ja": "オーストラリア",
+      "it": "Australia",
+      "br": "Austrália",
+      "pt": "Austrália",
+      "nl": "Australië",
+      "hr": "Australija",
+      "fa": "استرالیا"
+    },
+    "regionalBlocs": [],
+    "cioc": "AUS"
+  },
+  {
+    "name": "Belgium",
+    "topLevelDomain": [".be"],
+    "alpha2Code": "BE",
+    "alpha3Code": "BEL",
+    "callingCodes": ["32"],
+    "capital": "Brussels",
+    "altSpellings": [
+      "BE",
+      "België",
+      "Belgie",
+      "Belgien",
+      "Belgique",
+      "Kingdom of Belgium",
+      "Koninkrijk België",
+      "Royaume de Belgique",
+      "Königreich Belgien"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 11319511,
+    "latlng": [50.83333333, 4],
+    "demonym": "Belgian",
+    "area": 30528,
+    "gini": 33,
+    "timezones": ["UTC+01:00"],
+    "borders": ["FRA", "DEU", "LUX", "NLD"],
+    "nativeName": "België",
+    "numericCode": "056",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "translations": {
+      "de": "Belgien",
+      "es": "Bélgica",
+      "fr": "Belgique",
+      "ja": "ベルギー",
+      "it": "Belgio",
+      "br": "Bélgica",
+      "pt": "Bélgica",
+      "nl": "België",
+      "hr": "Belgija",
+      "fa": "بلژیک"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "BEL"
+  },
+  {
+    "name": "Brazil",
+    "topLevelDomain": [".br"],
+    "alpha2Code": "BR",
+    "alpha3Code": "BRA",
+    "callingCodes": ["55"],
+    "capital": "Brasília",
+    "altSpellings": [
+      "BR",
+      "Brasil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 206135893,
+    "latlng": [-10, -55],
+    "demonym": "Brazilian",
+    "area": 8515767,
+    "gini": 54.7,
+    "timezones": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"],
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "nativeName": "Brasil",
+    "numericCode": "076",
+    "currencies": [{ "code": "BRL", "name": "Brazilian real", "symbol": "R$" }],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "translations": {
+      "de": "Brasilien",
+      "es": "Brasil",
+      "fr": "Brésil",
+      "ja": "ブラジル",
+      "it": "Brasile",
+      "br": "Brasil",
+      "pt": "Brasil",
+      "nl": "Brazilië",
+      "hr": "Brazil",
+      "fa": "برزیل"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "USAN",
+        "name": "Union of South American Nations",
+        "otherAcronyms": ["UNASUR", "UNASUL", "UZAN"],
+        "otherNames": [
+          "Unión de Naciones Suramericanas",
+          "União de Nações Sul-Americanas",
+          "Unie van Zuid-Amerikaanse Naties",
+          "South American Union"
+        ]
+      }
+    ],
+    "cioc": "BRA"
+  },
+  {
+    "name": "Canada",
+    "topLevelDomain": [".ca"],
+    "alpha2Code": "CA",
+    "alpha3Code": "CAN",
+    "callingCodes": ["1"],
+    "capital": "Ottawa",
+    "altSpellings": ["CA"],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 36155487,
+    "latlng": [60, -95],
+    "demonym": "Canadian",
+    "area": 9984670,
+    "gini": 32.6,
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "borders": ["USA"],
+    "nativeName": "Canada",
+    "numericCode": "124",
+    "currencies": [{ "code": "CAD", "name": "Canadian dollar", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "translations": {
+      "de": "Kanada",
+      "es": "Canadá",
+      "fr": "Canada",
+      "ja": "カナダ",
+      "it": "Canada",
+      "br": "Canadá",
+      "pt": "Canadá",
+      "nl": "Canada",
+      "hr": "Kanada",
+      "fa": "کانادا"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "NAFTA",
+        "name": "North American Free Trade Agreement",
+        "otherAcronyms": [],
+        "otherNames": [
+          "Tratado de Libre Comercio de América del Norte",
+          "Accord de Libre-échange Nord-Américain"
+        ]
+      }
+    ],
+    "cioc": "CAN"
+  },
+  {
+    "name": "China",
+    "topLevelDomain": [".cn"],
+    "alpha2Code": "CN",
+    "alpha3Code": "CHN",
+    "callingCodes": ["86"],
+    "capital": "Beijing",
+    "altSpellings": [
+      "CN",
+      "Zhōngguó",
+      "Zhongguo",
+      "Zhonghua",
+      "People's Republic of China",
+      "中华人民共和国",
+      "Zhōnghuá Rénmín Gònghéguó"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 1377422166,
+    "latlng": [35, 105],
+    "demonym": "Chinese",
+    "area": 9640011,
+    "gini": 47,
+    "timezones": ["UTC+08:00"],
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "nativeName": "中国",
+    "numericCode": "156",
+    "currencies": [{ "code": "CNY", "name": "Chinese yuan", "symbol": "¥" }],
+    "languages": [
+      {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      }
+    ],
+    "translations": {
+      "de": "China",
+      "es": "China",
+      "fr": "Chine",
+      "ja": "中国",
+      "it": "Cina",
+      "br": "China",
+      "pt": "China",
+      "nl": "China",
+      "hr": "Kina",
+      "fa": "چین"
+    },
+    "regionalBlocs": [],
+    "cioc": "CHN"
+  },
+  {
+    "name": "Czech Republic",
+    "topLevelDomain": [".cz"],
+    "alpha2Code": "CZ",
+    "alpha3Code": "CZE",
+    "callingCodes": ["420"],
+    "capital": "Prague",
+    "altSpellings": ["CZ", "Česká republika", "Česko"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 10558524,
+    "latlng": [49.75, 15.5],
+    "demonym": "Czech",
+    "area": 78865,
+    "gini": 26,
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "DEU", "POL", "SVK"],
+    "nativeName": "Česká republika",
+    "numericCode": "203",
+    "currencies": [{ "code": "CZK", "name": "Czech koruna", "symbol": "Kč" }],
+    "languages": [
+      {
+        "iso639_1": "cs",
+        "iso639_2": "ces",
+        "name": "Czech",
+        "nativeName": "čeština"
+      },
+      {
+        "iso639_1": "sk",
+        "iso639_2": "slk",
+        "name": "Slovak",
+        "nativeName": "slovenčina"
+      }
+    ],
+    "translations": {
+      "de": "Tschechische Republik",
+      "es": "República Checa",
+      "fr": "République tchèque",
+      "ja": "チェコ",
+      "it": "Repubblica Ceca",
+      "br": "República Tcheca",
+      "pt": "República Checa",
+      "nl": "Tsjechië",
+      "hr": "Češka",
+      "fa": "جمهوری چک"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "CZE"
+  },
+  {
+    "name": "Spain",
+    "topLevelDomain": [".es"],
+    "alpha2Code": "ES",
+    "alpha3Code": "ESP",
+    "callingCodes": ["34"],
+    "capital": "Madrid",
+    "altSpellings": ["ES", "Kingdom of Spain", "Reino de España"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 46438422,
+    "latlng": [40, -4],
+    "demonym": "Spanish",
+    "area": 505992,
+    "gini": 34.7,
+    "timezones": ["UTC", "UTC+01:00"],
+    "borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
+    "nativeName": "España",
+    "numericCode": "724",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "translations": {
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "br": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "ESP"
+  },
+  {
+    "name": "France",
+    "topLevelDomain": [".fr"],
+    "alpha2Code": "FR",
+    "alpha3Code": "FRA",
+    "callingCodes": ["33"],
+    "capital": "Paris",
+    "altSpellings": ["FR", "French Republic", "République française"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 66710000,
+    "latlng": [46, 2],
+    "demonym": "French",
+    "area": 640679,
+    "gini": 32.7,
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
+    "nativeName": "France",
+    "numericCode": "250",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "translations": {
+      "de": "Frankreich",
+      "es": "Francia",
+      "fr": "France",
+      "ja": "フランス",
+      "it": "Francia",
+      "br": "França",
+      "pt": "França",
+      "nl": "Frankrijk",
+      "hr": "Francuska",
+      "fa": "فرانسه"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "FRA"
+  },
+  {
+    "name": "Germany",
+    "topLevelDomain": [".de"],
+    "alpha2Code": "DE",
+    "alpha3Code": "DEU",
+    "callingCodes": ["49"],
+    "capital": "Berlin",
+    "altSpellings": [
+      "DE",
+      "Federal Republic of Germany",
+      "Bundesrepublik Deutschland"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 81770900,
+    "latlng": [51, 9],
+    "demonym": "German",
+    "area": 357114,
+    "gini": 28.3,
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
+    "nativeName": "Deutschland",
+    "numericCode": "276",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "translations": {
+      "de": "Deutschland",
+      "es": "Alemania",
+      "fr": "Allemagne",
+      "ja": "ドイツ",
+      "it": "Germania",
+      "br": "Alemanha",
+      "pt": "Alemanha",
+      "nl": "Duitsland",
+      "hr": "Njemačka",
+      "fa": "آلمان"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "GER"
+  },
+  {
+    "name": "Hungary",
+    "topLevelDomain": [".hu"],
+    "alpha2Code": "HU",
+    "alpha3Code": "HUN",
+    "callingCodes": ["36"],
+    "capital": "Budapest",
+    "altSpellings": ["HU"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 9823000,
+    "latlng": [47, 20],
+    "demonym": "Hungarian",
+    "area": 93028,
+    "gini": 31.2,
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
+    "nativeName": "Magyarország",
+    "numericCode": "348",
+    "currencies": [
+      { "code": "HUF", "name": "Hungarian forint", "symbol": "Ft" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "hu",
+        "iso639_2": "hun",
+        "name": "Hungarian",
+        "nativeName": "magyar"
+      }
+    ],
+    "translations": {
+      "de": "Ungarn",
+      "es": "Hungría",
+      "fr": "Hongrie",
+      "ja": "ハンガリー",
+      "it": "Ungheria",
+      "br": "Hungria",
+      "pt": "Hungria",
+      "nl": "Hongarije",
+      "hr": "Mađarska",
+      "fa": "مجارستان"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "HUN"
+  },
+  {
+    "name": "India",
+    "topLevelDomain": [".in"],
+    "alpha2Code": "IN",
+    "alpha3Code": "IND",
+    "callingCodes": ["91"],
+    "capital": "New Delhi",
+    "altSpellings": ["IN", "Bhārat", "Republic of India", "Bharat Ganrajya"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 1295210000,
+    "latlng": [20, 77],
+    "demonym": "Indian",
+    "area": 3287590,
+    "gini": 33.4,
+    "timezones": ["UTC+05:30"],
+    "borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
+    "nativeName": "भारत",
+    "numericCode": "356",
+    "currencies": [{ "code": "INR", "name": "Indian rupee", "symbol": "₹" }],
+    "languages": [
+      {
+        "iso639_1": "hi",
+        "iso639_2": "hin",
+        "name": "Hindi",
+        "nativeName": "हिन्दी"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Indien",
+      "es": "India",
+      "fr": "Inde",
+      "ja": "インド",
+      "it": "India",
+      "br": "Índia",
+      "pt": "Índia",
+      "nl": "India",
+      "hr": "Indija",
+      "fa": "هند"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "SAARC",
+        "name": "South Asian Association for Regional Cooperation",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "IND"
+  },
+  {
+    "name": "Italy",
+    "topLevelDomain": [".it"],
+    "alpha2Code": "IT",
+    "alpha3Code": "ITA",
+    "callingCodes": ["39"],
+    "capital": "Rome",
+    "altSpellings": ["IT", "Italian Republic", "Repubblica italiana"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 60665551,
+    "latlng": [42.83333333, 12.83333333],
+    "demonym": "Italian",
+    "area": 301336,
+    "gini": 36,
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
+    "nativeName": "Italia",
+    "numericCode": "380",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      }
+    ],
+    "translations": {
+      "de": "Italien",
+      "es": "Italia",
+      "fr": "Italie",
+      "ja": "イタリア",
+      "it": "Italia",
+      "br": "Itália",
+      "pt": "Itália",
+      "nl": "Italië",
+      "hr": "Italija",
+      "fa": "ایتالیا"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "ITA"
+  },
+  {
+    "name": "Japan",
+    "topLevelDomain": [".jp"],
+    "alpha2Code": "JP",
+    "alpha3Code": "JPN",
+    "callingCodes": ["81"],
+    "capital": "Tokyo",
+    "altSpellings": ["JP", "Nippon", "Nihon"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 126960000,
+    "latlng": [36, 138],
+    "demonym": "Japanese",
+    "area": 377930,
+    "gini": 38.1,
+    "timezones": ["UTC+09:00"],
+    "borders": [],
+    "nativeName": "日本",
+    "numericCode": "392",
+    "currencies": [{ "code": "JPY", "name": "Japanese yen", "symbol": "¥" }],
+    "languages": [
+      {
+        "iso639_1": "ja",
+        "iso639_2": "jpn",
+        "name": "Japanese",
+        "nativeName": "日本語 (にほんご)"
+      }
+    ],
+    "translations": {
+      "de": "Japan",
+      "es": "Japón",
+      "fr": "Japon",
+      "ja": "日本",
+      "it": "Giappone",
+      "br": "Japão",
+      "pt": "Japão",
+      "nl": "Japan",
+      "hr": "Japan",
+      "fa": "ژاپن"
+    },
+    "regionalBlocs": [],
+    "cioc": "JPN"
+  },
+  {
+    "name": "Montenegro",
+    "topLevelDomain": [".me"],
+    "alpha2Code": "ME",
+    "alpha3Code": "MNE",
+    "callingCodes": ["382"],
+    "capital": "Podgorica",
+    "altSpellings": ["ME", "Crna Gora"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 621810,
+    "latlng": [42.5, 19.3],
+    "demonym": "Montenegrin",
+    "area": 13812,
+    "gini": 30,
+    "timezones": ["UTC+01:00"],
+    "borders": ["ALB", "BIH", "HRV", "KOS", "SRB"],
+    "nativeName": "Црна Гора",
+    "numericCode": "499",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "sr",
+        "iso639_2": "srp",
+        "name": "Serbian",
+        "nativeName": "српски језик"
+      },
+      {
+        "iso639_1": "bs",
+        "iso639_2": "bos",
+        "name": "Bosnian",
+        "nativeName": "bosanski jezik"
+      },
+      {
+        "iso639_1": "sq",
+        "iso639_2": "sqi",
+        "name": "Albanian",
+        "nativeName": "Shqip"
+      },
+      {
+        "iso639_1": "hr",
+        "iso639_2": "hrv",
+        "name": "Croatian",
+        "nativeName": "hrvatski jezik"
+      }
+    ],
+    "translations": {
+      "de": "Montenegro",
+      "es": "Montenegro",
+      "fr": "Monténégro",
+      "ja": "モンテネグロ",
+      "it": "Montenegro",
+      "br": "Montenegro",
+      "pt": "Montenegro",
+      "nl": "Montenegro",
+      "hr": "Crna Gora",
+      "fa": "مونته‌نگرو"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "CEFTA",
+        "name": "Central European Free Trade Agreement",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "MNE"
+  },
+  {
+    "name": "Netherlands",
+    "topLevelDomain": [".nl"],
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD",
+    "callingCodes": ["31"],
+    "capital": "Amsterdam",
+    "altSpellings": ["NL", "Holland", "Nederland"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 17019800,
+    "latlng": [52.5, 5.75],
+    "demonym": "Dutch",
+    "area": 41850,
+    "gini": 30.9,
+    "timezones": ["UTC-04:00", "UTC+01:00"],
+    "borders": ["BEL", "DEU"],
+    "nativeName": "Nederland",
+    "numericCode": "528",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      }
+    ],
+    "translations": {
+      "de": "Niederlande",
+      "es": "Países Bajos",
+      "fr": "Pays-Bas",
+      "ja": "オランダ",
+      "it": "Paesi Bassi",
+      "br": "Holanda",
+      "pt": "Países Baixos",
+      "nl": "Nederland",
+      "hr": "Nizozemska",
+      "fa": "پادشاهی هلند"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "NED"
+  },
+  {
+    "name": "Poland",
+    "topLevelDomain": [".pl"],
+    "alpha2Code": "PL",
+    "alpha3Code": "POL",
+    "callingCodes": ["48"],
+    "capital": "Warsaw",
+    "altSpellings": ["PL", "Republic of Poland", "Rzeczpospolita Polska"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 38437239,
+    "latlng": [52, 20],
+    "demonym": "Polish",
+    "area": 312679,
+    "gini": 34.1,
+    "timezones": ["UTC+01:00"],
+    "borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
+    "nativeName": "Polska",
+    "numericCode": "616",
+    "currencies": [{ "code": "PLN", "name": "Polish złoty", "symbol": "zł" }],
+    "languages": [
+      {
+        "iso639_1": "pl",
+        "iso639_2": "pol",
+        "name": "Polish",
+        "nativeName": "język polski"
+      }
+    ],
+    "translations": {
+      "de": "Polen",
+      "es": "Polonia",
+      "fr": "Pologne",
+      "ja": "ポーランド",
+      "it": "Polonia",
+      "br": "Polônia",
+      "pt": "Polónia",
+      "nl": "Polen",
+      "hr": "Poljska",
+      "fa": "لهستان"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "POL"
+  },
+  {
+    "name": "Romania",
+    "topLevelDomain": [".ro"],
+    "alpha2Code": "RO",
+    "alpha3Code": "ROU",
+    "callingCodes": ["40"],
+    "capital": "Bucharest",
+    "altSpellings": ["RO", "Rumania", "Roumania", "România"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 19861408,
+    "latlng": [46, 25],
+    "demonym": "Romanian",
+    "area": 238391,
+    "gini": 30,
+    "timezones": ["UTC+02:00"],
+    "borders": ["BGR", "HUN", "MDA", "SRB", "UKR"],
+    "nativeName": "România",
+    "numericCode": "642",
+    "currencies": [{ "code": "RON", "name": "Romanian leu", "symbol": "lei" }],
+    "languages": [
+      {
+        "iso639_1": "ro",
+        "iso639_2": "ron",
+        "name": "Romanian",
+        "nativeName": "Română"
+      }
+    ],
+    "translations": {
+      "de": "Rumänien",
+      "es": "Rumania",
+      "fr": "Roumanie",
+      "ja": "ルーマニア",
+      "it": "Romania",
+      "br": "Romênia",
+      "pt": "Roménia",
+      "nl": "Roemenië",
+      "hr": "Rumunjska",
+      "fa": "رومانی"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "ROU"
+  },
+  {
+    "name": "Russian Federation",
+    "topLevelDomain": [".ru"],
+    "alpha2Code": "RU",
+    "alpha3Code": "RUS",
+    "callingCodes": ["7"],
+    "capital": "Moscow",
+    "altSpellings": [
+      "RU",
+      "Rossiya",
+      "Russian Federation",
+      "Российская Федерация",
+      "Rossiyskaya Federatsiya"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 146599183,
+    "latlng": [60, 100],
+    "demonym": "Russian",
+    "area": 17124442,
+    "gini": 40.1,
+    "timezones": [
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "nativeName": "Россия",
+    "numericCode": "643",
+    "currencies": [{ "code": "RUB", "name": "Russian ruble", "symbol": "₽" }],
+    "languages": [
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "translations": {
+      "de": "Russland",
+      "es": "Rusia",
+      "fr": "Russie",
+      "ja": "ロシア連邦",
+      "it": "Russia",
+      "br": "Rússia",
+      "pt": "Rússia",
+      "nl": "Rusland",
+      "hr": "Rusija",
+      "fa": "روسیه"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EEU",
+        "name": "Eurasian Economic Union",
+        "otherAcronyms": ["EAEU"],
+        "otherNames": []
+      }
+    ],
+    "cioc": "RUS"
+  },
+  {
+    "name": "Singapore",
+    "topLevelDomain": [".sg"],
+    "alpha2Code": "SG",
+    "alpha3Code": "SGP",
+    "callingCodes": ["65"],
+    "capital": "Singapore",
+    "altSpellings": ["SG", "Singapura", "Republik Singapura", "新加坡共和国"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 5535000,
+    "latlng": [1.36666666, 103.8],
+    "demonym": "Singaporean",
+    "area": 710,
+    "gini": 48.1,
+    "timezones": ["UTC+08:00"],
+    "borders": [],
+    "nativeName": "Singapore",
+    "numericCode": "702",
+    "currencies": [
+      { "code": "BND", "name": "Brunei dollar", "symbol": "$" },
+      { "code": "SGD", "name": "Singapore dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ms",
+        "iso639_2": "msa",
+        "name": "Malay",
+        "nativeName": "bahasa Melayu"
+      },
+      {
+        "iso639_1": "ta",
+        "iso639_2": "tam",
+        "name": "Tamil",
+        "nativeName": "தமிழ்"
+      },
+      {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      }
+    ],
+    "translations": {
+      "de": "Singapur",
+      "es": "Singapur",
+      "fr": "Singapour",
+      "ja": "シンガポール",
+      "it": "Singapore",
+      "br": "Singapura",
+      "pt": "Singapura",
+      "nl": "Singapore",
+      "hr": "Singapur",
+      "fa": "سنگاپور"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "ASEAN",
+        "name": "Association of Southeast Asian Nations",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "SIN"
+  },
+  {
+    "name": "Sweden",
+    "topLevelDomain": [".se"],
+    "alpha2Code": "SE",
+    "alpha3Code": "SWE",
+    "callingCodes": ["46"],
+    "capital": "Stockholm",
+    "altSpellings": ["SE", "Kingdom of Sweden", "Konungariket Sverige"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 9894888,
+    "latlng": [62, 15],
+    "demonym": "Swedish",
+    "area": 450295,
+    "gini": 25,
+    "timezones": ["UTC+01:00"],
+    "borders": ["FIN", "NOR"],
+    "nativeName": "Sverige",
+    "numericCode": "752",
+    "currencies": [{ "code": "SEK", "name": "Swedish krona", "symbol": "kr" }],
+    "languages": [
+      {
+        "iso639_1": "sv",
+        "iso639_2": "swe",
+        "name": "Swedish",
+        "nativeName": "svenska"
+      }
+    ],
+    "translations": {
+      "de": "Schweden",
+      "es": "Suecia",
+      "fr": "Suède",
+      "ja": "スウェーデン",
+      "it": "Svezia",
+      "br": "Suécia",
+      "pt": "Suécia",
+      "nl": "Zweden",
+      "hr": "Švedska",
+      "fa": "سوئد"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "SWE"
+  },
+  {
+    "name": "Switzerland",
+    "topLevelDomain": [".ch"],
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE",
+    "callingCodes": ["41"],
+    "capital": "Bern",
+    "altSpellings": [
+      "CH",
+      "Swiss Confederation",
+      "Schweiz",
+      "Suisse",
+      "Svizzera",
+      "Svizra"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 8341600,
+    "latlng": [47, 8],
+    "demonym": "Swiss",
+    "area": 41284,
+    "gini": 33.7,
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
+    "nativeName": "Schweiz",
+    "numericCode": "756",
+    "currencies": [{ "code": "CHF", "name": "Swiss franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      }
+    ],
+    "translations": {
+      "de": "Schweiz",
+      "es": "Suiza",
+      "fr": "Suisse",
+      "ja": "スイス",
+      "it": "Svizzera",
+      "br": "Suíça",
+      "pt": "Suíça",
+      "nl": "Zwitserland",
+      "hr": "Švicarska",
+      "fa": "سوئیس"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EFTA",
+        "name": "European Free Trade Association",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "SUI"
+  },
+  {
+    "name": "Ukraine",
+    "topLevelDomain": [".ua"],
+    "alpha2Code": "UA",
+    "alpha3Code": "UKR",
+    "callingCodes": ["380"],
+    "capital": "Kiev",
+    "altSpellings": ["UA", "Ukrayina"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 42692393,
+    "latlng": [49, 32],
+    "demonym": "Ukrainian",
+    "area": 603700,
+    "gini": 26.4,
+    "timezones": ["UTC+02:00"],
+    "borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
+    "nativeName": "Україна",
+    "numericCode": "804",
+    "currencies": [
+      { "code": "UAH", "name": "Ukrainian hryvnia", "symbol": "₴" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "uk",
+        "iso639_2": "ukr",
+        "name": "Ukrainian",
+        "nativeName": "Українська"
+      }
+    ],
+    "translations": {
+      "de": "Ukraine",
+      "es": "Ucrania",
+      "fr": "Ukraine",
+      "ja": "ウクライナ",
+      "it": "Ucraina",
+      "br": "Ucrânia",
+      "pt": "Ucrânia",
+      "nl": "Oekraïne",
+      "hr": "Ukrajina",
+      "fa": "وکراین"
+    },
+    "regionalBlocs": [],
+    "cioc": "UKR"
+  },
+  {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "topLevelDomain": [".uk"],
+    "alpha2Code": "GB",
+    "alpha3Code": "GBR",
+    "callingCodes": ["44"],
+    "capital": "London",
+    "altSpellings": ["GB", "UK", "Great Britain"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 65110000,
+    "latlng": [54, -2],
+    "demonym": "British",
+    "area": 242900,
+    "gini": 34,
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ],
+    "borders": ["IRL"],
+    "nativeName": "United Kingdom",
+    "numericCode": "826",
+    "currencies": [{ "code": "GBP", "name": "British pound", "symbol": "£" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Vereinigtes Königreich",
+      "es": "Reino Unido",
+      "fr": "Royaume-Uni",
+      "ja": "イギリス",
+      "it": "Regno Unito",
+      "br": "Reino Unido",
+      "pt": "Reino Unido",
+      "nl": "Verenigd Koninkrijk",
+      "hr": "Ujedinjeno Kraljevstvo",
+      "fa": "بریتانیای کبیر و ایرلند شمالی"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+      }
+    ],
+    "cioc": "GBR"
+  },
+  {
+    "name": "United States of America",
+    "topLevelDomain": [".us"],
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "callingCodes": ["1"],
+    "capital": "Washington, D.C.",
+    "altSpellings": ["US", "USA", "United States of America"],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 323947000,
+    "latlng": [38, -97],
+    "demonym": "American",
+    "area": 9629091,
+    "gini": 48,
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "borders": ["CAN", "MEX"],
+    "nativeName": "United States",
+    "numericCode": "840",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fr": "États-Unis",
+      "ja": "アメリカ合衆国",
+      "it": "Stati Uniti D'America",
+      "br": "Estados Unidos",
+      "pt": "Estados Unidos",
+      "nl": "Verenigde Staten",
+      "hr": "Sjedinjene Američke Države",
+      "fa": "ایالات متحده آمریکا"
+    },
+    "regionalBlocs": [
+      {
+        "acronym": "NAFTA",
+        "name": "North American Free Trade Agreement",
+        "otherAcronyms": [],
+        "otherNames": [
+          "Tratado de Libre Comercio de América del Norte",
+          "Accord de Libre-échange Nord-Américain"
+        ]
+      }
+    ],
+    "cioc": "USA"
+  }
+]
